@@ -1,0 +1,15 @@
+#borda{
+    display: flex;
+    overflow: hidden;
+    width: 5rem;
+    border-radius: 100%;
+    border: 1px solid purple;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem
+}
+
+#avatar{
+    width: 60%;
+    height: 60%;
+}
