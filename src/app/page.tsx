@@ -1,9 +1,9 @@
-import Secao from './components/Secao';
+import Perfil from './components/Perfil';
 
 export default function Home() {
   return (
     <>
-      <Secao />
+      <Perfil />
     </>
   )
 }
