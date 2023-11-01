@@ -1,9 +1,10 @@
-import Perfil from './components/Perfil';
+import Post from './components/Post';
+import './page.css'
 
 export default function Home() {
   return (
     <>
-      <Perfil />
+      <Post nome='Mari Cruz' lugar='Recife, Brasil'/>
     </>
   )
 }
