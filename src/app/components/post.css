@@ -1,10 +1,16 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
 #perfil{
-    border: 1px solid black;
+    border: 2px solid black;
     width: min-content;
+    height: auto;
+    margin: 0.2rem 0 0 0.2rem;
 }
 
 #imagemCentral{
-    margin: 0.2rem 0 0;
     width: 25.1rem;
     height: 21rem;
 }

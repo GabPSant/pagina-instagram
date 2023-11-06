@@ -1,0 +1,14 @@
+footer{
+    display: flex;
+    padding: 0.4rem;
+    height: 3rem 0;
+}
+
+.icone{
+    display: flex;
+    margin: 0 0.5rem 0;
+}
+
+#marcador{
+    margin:0 0 0 13.5rem !important;
+}
